@@ -388,6 +388,7 @@ Here are the course summary as its given on the course [link](https://www.course
   3. Can train a big enough network to do well on all the tasks.
 - If you can train a big enough NN, the performance of the multi-task learning compared to splitting the tasks is better.
 - Today transfer learning is used more often than multi-task learning.
+ - Exception: Object Recognition in Computer Vision
 
 ### What is end-to-end deep learning?
 
