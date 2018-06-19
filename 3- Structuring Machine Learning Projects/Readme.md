@@ -434,6 +434,7 @@ Here are the course summary as its given on the course [link](https://www.course
 - Cons of end-to-end deep learning:
   - May need a large amount of data.
   - Excludes potentially useful hand-design components (it helps more on the smaller dataset).
+    - Two main sources of knowledge: One is the data and the other is whatever you hand design, be it components, or features, or other things.
 - Applying end-to-end deep learning:
   - Key question: Do you have sufficient data to learn a function of the **complexity** needed to map x to y?
   - Use ML/DL to learn some individual components.
